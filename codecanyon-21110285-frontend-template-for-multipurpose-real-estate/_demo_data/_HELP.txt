@@ -1,0 +1,11 @@
+
+*** Note ***
+-------------------------
+If you install Demo data, any previous data on your website will be deleted.
+
+
+How to Install Demo Data
+-------------------------
+1. Install SmartEnd System via installer.
+2. Import Demo DB "demo_data.sql" file to your DB via phpMyAdmin.
+3. Replace uploads folder on your project root.
